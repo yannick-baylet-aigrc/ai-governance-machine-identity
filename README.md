@@ -81,7 +81,8 @@ Zooming Out (Strategic Governance): Extending Non-Human Identity (NHI) managemen
 
 Securing AI is not simply about building stronger walls around data, nor is it strictly an exercise in threat research. It appears to be the practice of translating deep model-level risks into actionable, enterprise-wide security architecture. As this threat landscape matures, our governance frameworks must evolve from simple "block or allow" policies to continuous, identity-driven oversight of machine reasoning.
 
-Key Framework Takeaways for CISOs
+Key Takeaway for CISOs :
+
 Zooming In (Technical Control): Treat inputs as untrusted, isolate execution environments, and restrict API scopes.
 
 Zooming Out (Strategic Governance): Extend Non-Human Identity (NHI) management and Zero Trust principles to autonomous agents.
