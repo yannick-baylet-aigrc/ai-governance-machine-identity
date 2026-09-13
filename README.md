@@ -6,7 +6,7 @@
 ---
 
 ## Executive Summary
-We spent years perfecting input validation for standard software architectures... [Insert your introductory text]
+We spent years perfecting input validation for standard software architectures. Then came generative AI, and traditional **input validation** abruptly transformed into **defending against prompt injection** —vulnerabilities that OWASP now ranks as the primary security vector for large language models, driving a 2,000% surge in AI-specific exploit techniques.
 
 ---
 
