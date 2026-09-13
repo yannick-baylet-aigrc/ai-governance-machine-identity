@@ -87,6 +87,6 @@ Zooming In (Technical Control): Treat inputs as untrusted, isolate execution env
 Zooming Out (Strategic Governance): Extend Non-Human Identity (NHI) management and Zero Trust principles to autonomous agents.
 
 🔗 Related Resources & Links
-LinkedIn Article: [Link to your LinkedIn post once live]
+LinkedIn Article: [Link to soon live]
 
 Profile: Yannick Baylet GitHub Profile
