@@ -29,6 +29,7 @@ We spent years perfecting input validation for standard software architectures. 
 └─────────────────────────────────────────────────────────────┘
 ```
 Core Analysis
+
 We spent years perfecting input validation for standard software architectures. Then came standard GenAI, and input validation was transformed into stopping prompt injection attacks—vulnerabilities that OWASP now ranks as the primary security vector for large language models, driving a 2,000% surge in AI-specific exploit techniques.
 
 When I first began mapping the evolving intersection of cybersecurity and AI governance, I kept returning to two starkly different realities:
